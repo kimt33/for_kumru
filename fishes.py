@@ -3,6 +3,5 @@ class Fish(object):
         self.length = length
         self.weight = weight
         self.color = color
-        self.typeoffish = typeoffish
 
 
